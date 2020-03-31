@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Only dead fish go with the flow
 Use the left arrow to go back!
